@@ -1,0 +1,5 @@
+C:\Users\S98707\source\repos\PackageImportTablesServerToServer\PackageImportTablesServerToServer\bin\Debug\netcoreapp3.1\PackageImportTablesServerToServer.deps.json
+C:\Users\S98707\source\repos\PackageImportTablesServerToServer\PackageImportTablesServerToServer\bin\Debug\netcoreapp3.1\PackageImportTablesServerToServer.dll
+C:\Users\S98707\source\repos\PackageImportTablesServerToServer\PackageImportTablesServerToServer\obj\Debug\netcoreapp3.1\PackageImportTablesServerToServer.csprojAssemblyReference.cache
+C:\Users\S98707\source\repos\PackageImportTablesServerToServer\PackageImportTablesServerToServer\obj\Debug\netcoreapp3.1\PackageImportTablesServerToServer.AssemblyInfoInputs.cache
+C:\Users\S98707\source\repos\PackageImportTablesServerToServer\PackageImportTablesServerToServer\obj\Debug\netcoreapp3.1\PackageImportTablesServerToServer.AssemblyInfo.cs
